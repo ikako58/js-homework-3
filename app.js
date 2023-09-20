@@ -80,7 +80,7 @@ lowerDiv.style.backgroundColor = '#252B42';
 lowerDiv.style.display = 'flex';
 lowerDiv.style.alignItems = 'flex-end';
 lowerDiv.style.justifyContent = 'center';
-lowerDiv.style.height = '30vh';  /
+lowerDiv.style.height = '30vh';  
 
 
 function createWindow(bgColor, h4Text, paragraphColor, imgSrc) {
